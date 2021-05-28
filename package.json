@@ -1,0 +1,11 @@
+{
+    "name": "skylog",
+    "author": "Sim Young Jae",
+    "homepage": "https://github.com/Hanul/skylog",
+    "version": "0.0.1",
+    "types": "./SkyLog.d.ts",
+    "main": "./SkyLog.js",
+    "dependencies": {
+        "skydate": "^0.0.1"
+    }
+}
